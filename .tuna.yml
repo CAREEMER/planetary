@@ -1,0 +1,4 @@
+---
+tunnels:
+  frontend:
+    commandLine: tuna http 5173 --subdomain=planetary-dev
